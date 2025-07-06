@@ -8,7 +8,7 @@ Indiana University
 
 **ZetaOptimizer** is a novel stochastic‑gradient optimizer that integrates the Riemann zeta function $\zeta(s)$ into the update rule.  It blends Adam‑style momentum with dynamically scheduled zeta scaling, adaptive damping, and cosine‑similarity‑based boost.
 
-> **Status**: Research prototype – early empirical results on **MNIST**, **CIFAR‑10**, and **CIFAR‑100** show consistent gains over Adam and momentum‑SGD.
+> **Status**: Research prototype – early empirical results on **MNIST**,  and **CIFAR‑100** show consistent gains over Adam and momentum‑SGD.
 
 ---
 
